@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there 👋 My name is Ryan Kimutai and welcome to my github profile.
+Pronouns:👨He/Him.
+I'm currently learning how to build mobile apps.
 <!--
 **Ryank-80/Ryank-80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
